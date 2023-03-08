@@ -1,0 +1,9 @@
+{
+  "repositories": [
+    {
+      "fullName": "appbonk/scanME"
+      "branchName": "main",
+      "uploadScannerLogs": true
+    }
+  ]
+}
